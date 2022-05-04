@@ -1,2 +1,2 @@
 # billGUI
- A simple JAVA application  
+ A simple JAVA application 2
